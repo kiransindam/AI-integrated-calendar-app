@@ -4,7 +4,7 @@
 
 [![AI Powered](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge&logo=brain)](https://github.com/kiransindam/AI-integrated-calendar-app)
 
-[![Image]<img width="1053" height="862" alt="Screenshot 2025-09-24 231822" src="https://github.com/user-attachments/assets/8013743b-bfaf-49b4-a51c-ea670cd98534" />
+<img width="1053" height="862" alt="Screenshot 2025-09-24 231822" src="https://github.com/user-attachments/assets/8013743b-bfaf-49b4-a51c-ea670cd98534" />
 
 ## 🌟 Overview
 

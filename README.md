@@ -2,10 +2,10 @@
 
 > **Transforming time management with intelligent scheduling that learns how you work, predicts your needs, and optimizes your day—all in one intuitive app.**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://your-demo-link.com)
+[![Live Demo](https://claude.ai/public/artifacts/98f19378-afa9-4169-b9c4-819808d01418)] 
 [![React](https://img.shields.io/badge/React-18.0+-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![AI Powered](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge&logo=brain)](https://github.com/your-username/ai-calendar)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![AI Powered](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge&logo=brain)](https://github.com/kiransindam/AI-integrated-calendar-app)
+
 [![Image]<img width="1053" height="862" alt="Screenshot 2025-09-24 231822" src="https://github.com/user-attachments/assets/8013743b-bfaf-49b4-a51c-ea670cd98534" />
 
 ## 🌟 Overview
@@ -313,20 +313,16 @@ MIT License
 Copyright (c) 2025  Kiran Sindam 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
+of this Project and associated documentation files (the "Project"), to deal
+in the Project without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+copies of the Project, and to permit persons to whom the Project is
 furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
 ```
 
 ## 👥 Authors
 
 - **Kiran Sindam** - *Initial work* - [YourGitHub](https://github.com/kiransindam/)
-- **Project URL** : https://claude.ai/public/artifacts/98f19378-afa9-4169-b9c4-819808d01418
 ## 🙏 Acknowledgments
 
 - Inspired by modern productivity tools and AI advancements

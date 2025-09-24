@@ -325,7 +325,7 @@ copies or substantial portions of the Software.
 ## 👥 Authors
 
 - **Kiran Sindam** - *Initial work* - [YourGitHub](https://github.com/kiransindam/)
-
+- **Project URL** : https://claude.ai/public/artifacts/98f19378-afa9-4169-b9c4-819808d01418
 ## 🙏 Acknowledgments
 
 - Inspired by modern productivity tools and AI advancements
@@ -338,7 +338,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-**[⭐ Star this repo](https://github.com/kiransindam/AI-integrated-calendar-app)** • **[🚀 View Demo](https://claude.ai/public/artifacts/2edef6c0-df24-40e7-a230-ef57d2a28481)** • **[📚 Documentation](https://github.com/kiransindam/AI-integrated-calendar-app/edit/main/README.md)**
+**[⭐ Star this repo](https://github.com/kiransindam/AI-integrated-calendar-app)** • **[🚀 View Demo](https://claude.ai/public/artifacts/98f19378-afa9-4169-b9c4-819808d01418)** • **[📚 Documentation](https://github.com/kiransindam/AI-integrated-calendar-app/edit/main/README.md)**
 
 Made with ❤️ by [Kiran Sindam](https://github.com/kiransindam/)
 

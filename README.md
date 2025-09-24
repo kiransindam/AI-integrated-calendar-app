@@ -2,8 +2,6 @@
 
 > **Transforming time management with intelligent scheduling that learns how you work, predicts your needs, and optimizes your day—all in one intuitive app.**
 
-[![Live Demo](https://claude.ai/public/artifacts/98f19378-afa9-4169-b9c4-819808d01418)](https://your-demo-link.com)
-[![React](https://img.shields.io/badge/React-18.0+-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge&logo=brain)](https://github.com/kiransindam/AI-integrated-calendar-app)
 
 [![Image]<img width="1053" height="862" alt="Screenshot 2025-09-24 231822" src="https://github.com/user-attachments/assets/8013743b-bfaf-49b4-a51c-ea670cd98534" />
@@ -323,6 +321,7 @@ furnished to do so, subject to the following conditions:
 ## 👥 Authors
 
 - **Kiran Sindam** - *Initial work* - [YourGitHub](https://github.com/kiransindam/)
+- Live Demo : (https://claude.ai/public/artifacts/98f19378-afa9-4169-b9c4-819808d01418)
 ## 🙏 Acknowledgments
 
 - Inspired by modern productivity tools and AI advancements

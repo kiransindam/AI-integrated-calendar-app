@@ -6,6 +6,7 @@
 [![React](https://img.shields.io/badge/React-18.0+-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge&logo=brain)](https://github.com/your-username/ai-calendar)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Image]<img width="1053" height="862" alt="Screenshot 2025-09-24 231822" src="https://github.com/user-attachments/assets/8013743b-bfaf-49b4-a51c-ea670cd98534" />
 
 ## 🌟 Overview
 

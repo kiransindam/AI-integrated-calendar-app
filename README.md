@@ -321,7 +321,9 @@ furnished to do so, subject to the following conditions:
 ## 👥 Authors
 
 - **Kiran Sindam** - *Initial work* - [YourGitHub](https://github.com/kiransindam/)
-- Live Demo : (https://claude.ai/public/artifacts/98f19378-afa9-4169-b9c4-819808d01418)
+  
+- Live Demo : https://claude.ai/public/artifacts/98f19378-afa9-4169-b9c4-819808d01418
+  
 ## 🙏 Acknowledgments
 
 - Inspired by modern productivity tools and AI advancements

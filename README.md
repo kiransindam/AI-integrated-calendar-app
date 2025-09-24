@@ -309,7 +309,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2025  Kiran Sindam 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -332,16 +332,14 @@ copies or substantial portions of the Software.
 - Built with love for the developer and productivity community
 - Special thanks to the React and Tailwind CSS teams
 
-  
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/ai-calendar/discussions)
-- 📖 **Wiki**: [Project Wiki](https://github.com/your-username/ai-calendar/wiki)
+   
 
 ---
 
 <div align="center">
 
-**[⭐ Star this repo](https://github.com/your-username/ai-calendar)** • **[🚀 View Demo](https://your-demo-link.com)** • **[📚 Documentation](https://github.com/your-username/ai-calendar/wiki)**
+**[⭐ Star this repo](https://github.com/kiransindam/AI-integrated-calendar-app)** • **[🚀 View Demo](https://claude.ai/public/artifacts/2edef6c0-df24-40e7-a230-ef57d2a28481)** • **[📚 Documentation](https://github.com/kiransindam/AI-integrated-calendar-app/edit/main/README.md)**
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Kiran Sindam](https://github.com/kiransindam/)
 
 </div>

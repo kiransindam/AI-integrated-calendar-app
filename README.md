@@ -71,7 +71,7 @@ Responsive Design    Mobile-first approach
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ai-calendar.git
+   git clone https://github.com/kiransindam/AI-integrated-calendar-app.git
    cd ai-calendar
    ```
 
